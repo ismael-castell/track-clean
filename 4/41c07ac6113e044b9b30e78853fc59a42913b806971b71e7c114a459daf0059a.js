@@ -1,0 +1,1 @@
+window.wp=window.wp||{},function(){}

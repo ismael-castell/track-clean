@@ -1,0 +1,1 @@
+define(['underscore','uiElement','Magento_Customer/js/customer-data'],function(){}

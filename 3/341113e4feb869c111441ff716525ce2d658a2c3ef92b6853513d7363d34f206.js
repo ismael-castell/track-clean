@@ -1,0 +1,1 @@
+define(['ko','jquery','Magento_Ui/js/lib/view/utils/async','uiRegistry','underscore','../template/renderer','jquery-ui-modules/resizable'],function(){}

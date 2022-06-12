@@ -1,0 +1,1 @@
+"use strict";[].forEach.call(document.querySelectorAll('a'),function(){}

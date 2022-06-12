@@ -1,0 +1,1 @@
+/* jcemediabox - 2.1.2 | 2021-09-23 | https://www.joomlacontenteditor.net | Copyright (C) 2006 - 2021 Ryan Demmer. All rights reserved | GNU/GPL Version 2 or later - http://www.gnu.org/licenses/gpl-2.0.html */

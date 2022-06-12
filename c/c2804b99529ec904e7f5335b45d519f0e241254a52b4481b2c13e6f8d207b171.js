@@ -1,0 +1,1 @@
+!function(){}(jQuery),jQuery(document).ready(function(){}),location.hash&&"#_"===location.hash.substring(0,2)&&(jQuery(".fusion-page-load-link").attr("href",decodeURIComponent("#"+location.hash.substring(2))),jQuery(window).on("load",function(){}

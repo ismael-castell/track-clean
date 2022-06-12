@@ -1,0 +1,1 @@
+jQuery(window).on("load fusion-element-render-fusion_testimonial fusion-element-render-fusion_testimonials",function(){}),jQuery(window).on("fusion-dynamic-content-render",function(){}

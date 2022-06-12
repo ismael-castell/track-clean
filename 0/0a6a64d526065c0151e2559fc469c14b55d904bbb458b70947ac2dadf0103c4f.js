@@ -1,0 +1,1 @@
+function _classCallCheck(t,i){if(!(t instanceof i))throw new TypeError("Cannot call a class as a function")}var Sticky=function(){}();!function(){}

@@ -1,0 +1,1 @@
+function(){}function compositeAddQuantityBoxes(){avadaAddQuantityBoxes()}jQuery(window).on("load",function(){avadaAddQuantityBoxes()}),jQuery(document).ajaxComplete(function(){avadaAddQuantityBoxes()}),jQuery(document).ready(function(){}),jQuery(".composite_data").length&&jQuery(".composite_data").on("wc-composite-initializing",function(){}

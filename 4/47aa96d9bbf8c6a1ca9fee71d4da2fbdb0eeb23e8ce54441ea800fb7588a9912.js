@@ -1,0 +1,1 @@
+!function(){}(jQuery),jQuery(document).ready(function(){}),jQuery(window).on("load",function(){jQuery(".fusion-modal .fusion-progressbar").on("appear",function(){jQuery(this).fusion_draw_progress()})}),jQuery(window).on("fusion-element-render-fusion_progress",function(){}

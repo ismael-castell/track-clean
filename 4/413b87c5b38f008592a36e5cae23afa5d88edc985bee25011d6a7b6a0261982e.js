@@ -1,0 +1,1 @@
+define(['mage/storage'],function(){}

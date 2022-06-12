@@ -1,0 +1,1 @@
+define(['Magento_ReCaptchaFrontendUi/js/registry'],function(registry){'use strict';return function(){}

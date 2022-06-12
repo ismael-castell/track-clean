@@ -1,0 +1,1 @@
+function fusionDeactivateMobileImagHovers(){jQuery("body").fusion_deactivate_mobile_image_hovers()}!function(){}(jQuery),jQuery(document).ready(function(){}

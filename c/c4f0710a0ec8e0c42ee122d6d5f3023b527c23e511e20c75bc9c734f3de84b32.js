@@ -1,0 +1,1 @@
+jQuery(document).on("ready fusion-widget-render-Fusion_Widget_Tabs",function(){}

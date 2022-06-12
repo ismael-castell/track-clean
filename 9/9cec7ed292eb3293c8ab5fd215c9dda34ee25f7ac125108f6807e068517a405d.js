@@ -1,0 +1,1 @@
+!function(){}(jQuery),jQuery(window).on("load fusion-element-render-fusion-counters_box",function(){}),jQuery(window).on("fusion-element-render-fusion_counter_box",function(){}

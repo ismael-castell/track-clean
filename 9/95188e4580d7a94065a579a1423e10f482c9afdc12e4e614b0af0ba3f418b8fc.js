@@ -1,0 +1,2 @@
+/* == malihu jquery custom scrollbar plugin == Version: 3.1.5, License: MIT License (MIT) */
+!function(e){"function"==typeof define&&define.amd?define(["jquery"],e):"undefined"!=typeof module&&module.exports?module.exports=e:e(jQuery,window,document)}(function(){}

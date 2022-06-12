@@ -1,0 +1,1 @@
+define(['jquery','mage/apply/main'],function(){}

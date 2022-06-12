@@ -1,0 +1,1 @@
+function fusionGetScrollOffset(){var t,e=fusion.getAdminbarHeight(),o="function"==typeof getStickyHeaderHeight?getStickyHeaderHeight():0,n=parseInt(e+o+1,10);return jQuery(".fusion-tb-header").length&&"function"==typeof fusionGetStickyOffset?(t=fusionGetStickyOffset())?t+1:e:n}jQuery(document).ready(function(){}

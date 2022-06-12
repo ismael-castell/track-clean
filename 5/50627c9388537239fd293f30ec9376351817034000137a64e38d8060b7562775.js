@@ -1,0 +1,1 @@
+"use strict";var BJLL_options=BJLL_options||{},BJLL={_ticking:!1,check:function(){},show:function(){},customEvent:function(){}

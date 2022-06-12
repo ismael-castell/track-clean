@@ -1,0 +1,1 @@
+define(['jquery','ko'],function(){}

@@ -1,0 +1,1 @@
+window._bd_share_main.F.module("share/api_base",function(e,t,n){var r=e("base/tangram").T,i=e("base/class").Class;t.ApiBase=i.create(function(e){function s(e){window._bd_share_main.F.use("component/anticheat",function(t){t.process("mouseenter",e.event,e.element)}),t._processEvent(e)}function o(n){window._bd_share_main.F.use("component/anticheat",function(){}

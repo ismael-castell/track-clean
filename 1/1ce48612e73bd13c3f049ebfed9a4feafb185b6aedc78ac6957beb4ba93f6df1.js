@@ -1,0 +1,1 @@
+define(['jquery','mage/mage','jquery/jquery.cookie'],function(){}

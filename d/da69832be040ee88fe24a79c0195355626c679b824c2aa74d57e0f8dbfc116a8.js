@@ -1,0 +1,10 @@
+(function(){var gtConstEvalStartTime = new Date();/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var h=this||self,l=/^[\w+/_-]+[=]{0,2}$/,m=null;function(){}function(){}function q(a){return a};function r(a){if(Error.captureStackTrace)Error.captureStackTrace(this,r);else{var b=Error().stack;b&&(this.stack=b)}a&&(this.message=String(a))}p(r,Error);r.prototype.name="CustomError";function(){}p(u,r);u.prototype.name="AssertionError";function(){};var w;function(){}x.prototype.toString=function(){return this.g+""};var y={};function(){}
+function _loadJs(a){var b=document;var c="SCRIPT";"application/xhtml+xml"===b.contentType&&(c=c.toLowerCase());c=b.createElement(c);c.type="text/javascript";c.charset="UTF-8";if(void 0===w){b=null;var g=h.trustedTypes;if(g&&g.createPolicy){try{b=g.createPolicy("goog#html",{createHTML:q,createScript:q,createScriptURL:q})}catch(t){h.console&&h.console.error(t.message)}w=b}else w=b}a=(b=w)?b.createScriptURL(a):a;a=new x(a,y);a:{try{var f=c&&c.ownerDocument,k=f&&(f.defaultView||f.parentWindow);k=k||h;
+if(k.Element&&k.Location){var e=k;break a}}catch(t){}e=null}if(e&&"undefined"!=typeof e.HTMLScriptElement&&(!c||!(c instanceof e.HTMLScriptElement)&&(c instanceof e.Location||c instanceof e.Element))){e=typeof c;if("object"==e&&null!=c||"function"==e)try{var d=c.constructor.displayName||c.constructor.name||Object.prototype.toString.call(c)}catch(t){d="<object could not be stringified>"}else d=void 0===c?"undefined":null===c?"null":typeof c;v("Argument is not a %s (or a non-Element, non-Location mock); got: %s",
+"HTMLScriptElement",d)}a instanceof x&&a.constructor===x?d=a.g:(d=typeof a,v("expected object of type TrustedResourceUrl, got '"+a+"' of type "+("object"!=d?d:a?Array.isArray(a)?"array":d:"null")),d="type_error:TrustedResourceUrl");c.src=d;(d=c.ownerDocument&&c.ownerDocument.defaultView)&&d!=h?d=n(d.document):(null===m&&(m=n(h.document)),d=m);d&&c.setAttribute("nonce",d);z(c)}
+function(){}function(){}function(){}

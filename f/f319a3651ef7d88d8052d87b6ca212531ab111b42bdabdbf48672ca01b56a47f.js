@@ -1,0 +1,1 @@
+!function(){}("undefined"!=typeof global?global:this);!function(){}

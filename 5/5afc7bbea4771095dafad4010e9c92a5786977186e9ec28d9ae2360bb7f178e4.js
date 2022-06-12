@@ -1,0 +1,1 @@
+YUI.add("color-base",function(){}

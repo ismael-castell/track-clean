@@ -1,0 +1,1 @@
+jQuery(window).on("load",function(){um_responsive(),um_modal_responsive()}),jQuery(window).on("resize",function(){}

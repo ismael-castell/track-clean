@@ -1,0 +1,1 @@
+function(){}jQuery(document).ready(function(){var e;e=jQuery("iframe"),jQuery.each(e,function(e,i){var t=jQuery(this).attr("src"),o=jQuery(this).data("privacy-src"),s=!t&&o?o:t;s&&Number(fusionVideoGeneralVars.status_vimeo)&&1<=s.indexOf("vimeo")&&jQuery(this).attr("id","player_"+(e+1))}),jQuery("body").hasClass("fusion-builder-live")?setTimeout(function(){}

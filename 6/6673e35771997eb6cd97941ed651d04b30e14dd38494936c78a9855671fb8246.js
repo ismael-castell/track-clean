@@ -1,0 +1,1 @@
+"function"==typeof jQuery&&jQuery(document).ready(function(){}

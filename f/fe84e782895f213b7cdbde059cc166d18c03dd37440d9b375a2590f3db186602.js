@@ -1,0 +1,1 @@
+define(['jquery','underscore','ko','mageUtils','Magento_Catalog/js/product/query-builder','Magento_Customer/js/customer-data','jquery/jquery-storageapi'],function(){}

@@ -1,0 +1,1 @@
+var WPMLLanguageSwitcherDropdown=(function(){})();document.addEventListener('DOMContentLoaded',function(){}

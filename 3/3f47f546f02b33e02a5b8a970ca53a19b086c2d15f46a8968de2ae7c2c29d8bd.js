@@ -1,0 +1,2 @@
+/* flatpickr v4.6.3,, @license MIT */
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):(e=e||self).flatpickr=t()}(this,function(){}

@@ -1,0 +1,2 @@
+/* JQUERY NEWS TICKER */
+!function(){}

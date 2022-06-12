@@ -1,0 +1,1 @@
+define(['ko','underscore','mage/utils/wrapper','uiEvents','es6-collections'],function(){}

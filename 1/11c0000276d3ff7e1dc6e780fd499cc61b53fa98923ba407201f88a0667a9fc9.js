@@ -1,0 +1,1 @@
+function UET(o){this.stringExists=function(){}

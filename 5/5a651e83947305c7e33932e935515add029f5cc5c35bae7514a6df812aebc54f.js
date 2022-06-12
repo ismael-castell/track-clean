@@ -1,0 +1,1 @@
+function(){}function renderTrustboxes(){const t=trustbox_settings.page||"";"product"===t&&addNamesAndSkusToTrustboxes(),trustpilot_trustbox_settings.trustboxes=trustpilot_trustbox_settings.trustboxes.filter(function(){}),"complete"!==document.readyState?window.addEventListener("load",):tp("trustBox",trustpilot_trustbox_settings)}function(){}

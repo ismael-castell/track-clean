@@ -1,0 +1,1 @@
+define(['ko','jquery','underscore','../template/renderer','jquery-ui-modules/slider'],function(){}

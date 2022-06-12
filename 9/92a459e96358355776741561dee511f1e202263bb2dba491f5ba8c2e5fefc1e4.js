@@ -1,0 +1,1 @@
+define(['jquery','ko','underscore','mage/template','text!ui/template/tooltip/tooltip.html','../template/renderer'],function(){}

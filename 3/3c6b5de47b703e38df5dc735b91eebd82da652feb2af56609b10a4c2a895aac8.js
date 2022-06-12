@@ -1,0 +1,1 @@
+define(['ko','uiComponent','Magento_Customer/js/customer-data'],function(){}

@@ -1,0 +1,1 @@
+define(['jquery','jquery-ui-modules/widget','jquery-ui-modules/core','jquery/jquery-storageapi','mage/mage'],function(){}

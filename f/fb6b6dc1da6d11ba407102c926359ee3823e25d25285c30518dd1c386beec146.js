@@ -1,0 +1,14 @@
+/*!
+ * jQuery UI Effects Bounce - v1.10.4
+ * http://jqueryui.com
+ *
+ * Copyright 2014 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://api.jqueryui.com/bounce-effect/
+ *
+ * Depends:
+ *	jquery.ui.effect.js
+ */
+define(['jquery','jquery-ui-modules/effect'],function(){}

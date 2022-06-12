@@ -1,0 +1,2 @@
+var WordPressPopularPosts=function(){}();
+if("undefined"!==typeof wpp_params&&0<wpp_params.ID){var do_request=!0;if("1"==wpp_params.sampling_active){var num=Math.floor(Math.random()*wpp_params.sampling_rate)+1;do_request=1===num}do_request&&WordPressPopularPosts.post(wpp_params.ajax_url,"_wpnonce="+wpp_params.token+"&wpp_id="+wpp_params.ID+"&sampling="+wpp_params.sampling_active+"&sampling_rate="+wpp_params.sampling_rate,function(){}

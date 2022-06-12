@@ -1,0 +1,1 @@
+define(['jquery','underscore','Magento_Ui/js/form/adapter/buttons'],function(){}

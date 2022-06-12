@@ -1,0 +1,2 @@
+/*! This file is auto-generated */
+window.wpCookies={each:function(){},getHash:function(){},setHash:function(){},get:function(){},set:function(){},remove:function(){}},window.getUserSetting=function(){},window.setUserSetting=function(){},window.deleteUserSetting=function(e){return setUserSetting(e,"",1)},window.getAllUserSettings=function(){}

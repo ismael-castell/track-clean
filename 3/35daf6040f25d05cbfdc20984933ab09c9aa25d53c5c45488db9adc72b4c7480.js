@@ -1,0 +1,1 @@
+define(['Magento_Tax/js/view/checkout/minicart/subtotal/totals','underscore'],function(){}

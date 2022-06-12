@@ -1,0 +1,1 @@
+(function(a,b){typeof define==="function"&&define.amd?define([],function(){return b()}):typeof exports==="object"?module.exports=b():a.whatInput=b()})(this,function(){function a(a){clearTimeout(p);c(a);i=!0;p=setTimeout(function(){i=!1},1E3)}function(){}

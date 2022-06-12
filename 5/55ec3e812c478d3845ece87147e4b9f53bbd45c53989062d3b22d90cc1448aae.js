@@ -1,0 +1,5 @@
+define(['underscore','Magento_Ui/js/lib/spinner','rjsResolver','./adapter','uiCollection','mageUtils','jquery','Magento_Ui/js/core/app','mage/validation'],function(_,loader,resolver,adapter,Collection,utils,$,app){'use strict';function(){}
+function(){}
+function(){}
+function(){}
+return Collection.extend({defaults:{additionalFields:[],additionalInvalid:false,selectorPrefix:'.page-content',messagesClass:'messages',errorClass:'.admin__field._error',eventPrefix:'.${ $.index }',ajaxSave:false,ajaxSaveType:'default',imports:{reloadUrl:'${ $.provider}:reloadUrl'},listens:{selectorPrefix:'destroyAdapter initAdapter','${ $.name }.${ $.reloadItem }':'params.set reload'},exports:{selectorPrefix:'${ $.provider }:client.selectorPrefix',messagesClass:'${ $.provider }:client.messagesClass'}},initialize:function(){},initObservable:function(){},initConfig:function(){},initAdapter:function(){},destroyAdapter:function(){},hideLoader:function(){},save:function(){},focusInvalid:function(){},setAdditionalData:function(){},submit:function(){},validate:function(){},reset:function(){},overload:function(){this.source.trigger('data.overload');},reload:function(){}

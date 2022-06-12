@@ -1,0 +1,1 @@
+!function(t){"function"==typeof define&&define.amd?define(["jquery"],t):t("object"==typeof module&&module.exports?require("jquery"):jQuery)}(function(){}),jQuery.cookie=function(){},jQuery(document).ready(function(){}

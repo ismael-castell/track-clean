@@ -1,0 +1,3 @@
+define(['ko','jquery','Magento_Ui/js/lib/knockout/template/loader','mage/template'],function(ko,$,templateLoader,template){'use strict';var blockLoaderTemplatePath='ui/block-loader',blockContentLoadingClass='_block-content-loading',blockLoader,blockLoaderClass,blockLoaderElement=$.Deferred(),loaderImageHref=$.Deferred();templateLoader.loadTemplate(blockLoaderTemplatePath).done(function(blockLoaderTemplate){loaderImageHref.done(function(loaderHref){blockLoader=template($.trim(blockLoaderTemplate),{loaderImageHref:loaderHref});blockLoader=$(blockLoader);blockLoaderClass='.'+blockLoader.attr('class');blockLoaderElement.resolve();});});function(){}
+function(){}
+function(){}

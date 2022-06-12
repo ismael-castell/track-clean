@@ -1,0 +1,1 @@
+(function(){})(window);var deployJava=function(){}();var Detector=function(){};function(){};var swfobject=function(){}();(function(){}

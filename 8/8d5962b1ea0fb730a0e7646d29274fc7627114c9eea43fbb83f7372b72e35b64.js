@@ -1,0 +1,1 @@
+define(['jquery','mage/template','jquery-ui-modules/widget','mage/translate'],function(){}

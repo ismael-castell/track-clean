@@ -1,0 +1,3 @@
+var XF=window.XF||{};!function(){}(window);
+!function(e,d){var f=d.documentElement,h=f.getAttribute("data-cookie-prefix")||"",k=f.getAttribute("data-app"),l="true"===f.getAttribute("data-logged-in");f.addEventListener("error",function(a){a=a.target;switch(a.getAttribute("data-onerror")){case "hide":a.style.display="none";break;case "hide-parent":a.parentNode.style.display="none"}},!0);XF.Feature=function(){function a(a){var b=f.className;g&&(b=b.replace(/(^|\s)has-no-js($|\s)/,"$1has-js$2"),g=!1);a.length&&(b+=" "+a.join(" "));f.className=
+b}var b={touchevents:function(){}

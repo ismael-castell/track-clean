@@ -1,0 +1,1 @@
+function showcasePlayerAttachListener(){listenerIsAttached||($(window).on("message",function(e){var a=$("iframe").filter(function(){}

@@ -1,0 +1,1 @@
+"use strict";var WPMLLanguageSwitcherDropdownClick=function(){function l(){var e=this.querySelectorAll(i)[0];return"visible"===e.style.visibility?(e.style.visibility="hidden",document.removeEventListener("click",t)):(e.style.visibility="visible",document.addEventListener("click",t),n=!0),!1}function(){}

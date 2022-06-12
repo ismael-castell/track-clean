@@ -1,0 +1,23 @@
+TrackingConsentManager=(function(){var consentCookieName="sf-tracking-consent";
+var consentDialogHtml="";
+var consentDialog=null;
+var eventListeners={AfterDialogDisplayed:[],BeforeDialogClosed:[],ConsentChanged:[],};
+function closeConsentDialog(){if(consentDialog==null){return;
+}invokeEventListeners("BeforeDialogClosed",[consentDialog]);
+document.body.removeChild(consentDialog);
+consentDialog=null;
+}function openConsentDialog(){if(!document.body){return;
+}closeConsentDialog();
+consentDialog=document.createElement("div");
+consentDialog.innerHTML=consentDialogHtml;
+document.body.insertBefore(consentDialog,document.body.childNodes[0]);
+var scripts=consentDialog.getElementsByTagName("script");
+for(var idx=0;
+idx<scripts.length;
+idx++){try{eval(scripts[idx].textContent);
+}catch(err){console.error(err);
+}}invokeEventListeners("AfterDialogDisplayed",[consentDialog]);
+}function openDialogIfConsentNotProvided(){var userConsent=readCookie(consentCookieName);
+if(userConsent!=null){return;
+}openConsentDialog();
+}function(){}function(){}

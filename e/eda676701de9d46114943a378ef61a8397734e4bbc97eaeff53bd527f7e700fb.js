@@ -1,0 +1,1 @@
+!function(factory){"function"==typeof define&&define.amd?define(["jquery"],factory):factory(jQuery)}(function(){}

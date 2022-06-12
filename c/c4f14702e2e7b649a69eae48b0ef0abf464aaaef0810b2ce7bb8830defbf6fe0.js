@@ -1,0 +1,1 @@
+jQuery(window).on("load",function(){}),jQuery(window).on("fusion-element-render-fusion_text fusion-element-render-fusion_popover",function(){}

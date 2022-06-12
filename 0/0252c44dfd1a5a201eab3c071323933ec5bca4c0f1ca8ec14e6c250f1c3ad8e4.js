@@ -1,0 +1,3 @@
+/*! TABOOLA-DEFAULT-VERSION-SNAPSHOT 2021-07-12 */
+
+!function(){}

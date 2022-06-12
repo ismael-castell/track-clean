@@ -1,0 +1,1 @@
+window.Modernizr=function(){}(this,this.document),function(){}

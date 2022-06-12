@@ -1,0 +1,1 @@
+!function(n){"function"==typeof define&&define.amd?define(["jquery","./version"],n):n(jQuery)}((function(){}

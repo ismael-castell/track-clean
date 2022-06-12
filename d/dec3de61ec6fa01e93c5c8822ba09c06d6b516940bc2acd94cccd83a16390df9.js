@@ -1,0 +1,1 @@
+jQuery.fn.fusionCalculatePortfolioEqualHeights=function(){},jQuery(document).ready(function(){}),jQuery(window).on("load fusion-element-render-fusion_portfolio fusion-column-resized",function(){}),jQuery(window).on("fusion-column-resized",function(){}),jQuery(window).on("fusion-dynamic-content-render",function(){}

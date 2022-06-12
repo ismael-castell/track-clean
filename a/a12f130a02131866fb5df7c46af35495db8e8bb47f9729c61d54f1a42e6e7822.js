@@ -1,0 +1,2 @@
+/*! selectize.js - v0.12.1 | https://github.com/brianreavis/selectize.js | Apache License (v2) */
+!function(a,b){"function"==typeof define&&define.amd?define("sifter",b):"object"==typeof exports?module.exports=b():a.Sifter=b()}(this,function(){}),function(){}(this,function(){}),function(){}(this,function(){}

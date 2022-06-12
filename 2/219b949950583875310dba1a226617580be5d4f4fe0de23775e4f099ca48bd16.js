@@ -1,0 +1,1 @@
+var strict;jQuery(document).ready(function(){}),function(){}

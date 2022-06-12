@@ -1,0 +1,1 @@
+define(['moment','mage/utils/template'],function(){}

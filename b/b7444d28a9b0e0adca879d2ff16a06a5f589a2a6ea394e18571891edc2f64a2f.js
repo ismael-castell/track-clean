@@ -1,0 +1,1 @@
+define(['ko','jquery','underscore','uiRegistry','./dom-observer','Magento_Ui/js/lib/knockout/extender/bound-nodes','./bindings'],function(){}

@@ -1,0 +1,5 @@
+/*
+** Unobtrusive validation support library for jQuery and jQuery Validate
+** Copyright (C) Microsoft Corporation. All rights reserved.
+*/
+(function(a){var d=a.validator,b,f="unobtrusiveValidation";function(){}function i(a){return a.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/g)}function g(a){return a.substr(0,a.lastIndexOf(".")+1)}function(){}function(){}function(){}function(){}function(){}d.unobtrusive={adapters:[],parseElement:function(){},parse:function(){}};b=d.unobtrusive.adapters;b.add=function(){};b.addBool=function(){};b.addMinMax=function(){};b.addSingleVal=function(a,b,d){return this.add(a,[b||"val"],function(e){c(e,d||a,e.params[b])})};d.addMethod("__dummy__",function(){return true});d.addMethod("regex",function(){});b.addSingleVal("accept","exts").addSingleVal("regex","pattern");b.addBool("creditcard").addBool("date").addBool("digits").addBool("email").addBool("number").addBool("url");b.addMinMax("length","minlength","maxlength","rangelength").addMinMax("range","min","max","range");b.add("equalto",["other"],function(){});b.add("required",function(){});b.add("remote",["url","type","additionalfields"],function(){}

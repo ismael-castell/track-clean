@@ -1,0 +1,1 @@
+typeof JSON!="object"&&(JSON={}),function(){}(),function(){}(window),function(){}(window),function(){}

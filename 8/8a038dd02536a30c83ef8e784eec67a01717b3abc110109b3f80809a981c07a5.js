@@ -1,0 +1,1 @@
+function(){}jQuery(window).on("load fusion-element-render-fusion_tb_woo_cart",function(){}

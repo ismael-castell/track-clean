@@ -1,0 +1,1 @@
+!function(){}(jQuery),jQuery(window).on("load",function(){jQuery(".fusion-image-before-after").fusionImageCompare()}),jQuery(window).on("fusion-dynamic-content-render",function(){}),jQuery(document).on("fusion-element-render-fusion_image_before_after fusion-column-resized",function(){}
